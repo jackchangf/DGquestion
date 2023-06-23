@@ -1,0 +1,17 @@
+C:\Users\jackc\Desktop\DatgetlQuestion\bin\Debug\net7.0-windows\DatgetlQuestion.exe
+C:\Users\jackc\Desktop\DatgetlQuestion\bin\Debug\net7.0-windows\DatgetlQuestion.deps.json
+C:\Users\jackc\Desktop\DatgetlQuestion\bin\Debug\net7.0-windows\DatgetlQuestion.runtimeconfig.json
+C:\Users\jackc\Desktop\DatgetlQuestion\bin\Debug\net7.0-windows\DatgetlQuestion.dll
+C:\Users\jackc\Desktop\DatgetlQuestion\bin\Debug\net7.0-windows\DatgetlQuestion.pdb
+C:\Users\jackc\Desktop\DatgetlQuestion\obj\Debug\net7.0-windows\DatgetlQuestion.csproj.AssemblyReference.cache
+C:\Users\jackc\Desktop\DatgetlQuestion\obj\Debug\net7.0-windows\DatgetlQuestion.Form1.resources
+C:\Users\jackc\Desktop\DatgetlQuestion\obj\Debug\net7.0-windows\DatgetlQuestion.csproj.GenerateResource.cache
+C:\Users\jackc\Desktop\DatgetlQuestion\obj\Debug\net7.0-windows\DatgetlQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\Desktop\DatgetlQuestion\obj\Debug\net7.0-windows\DatgetlQuestion.AssemblyInfoInputs.cache
+C:\Users\jackc\Desktop\DatgetlQuestion\obj\Debug\net7.0-windows\DatgetlQuestion.AssemblyInfo.cs
+C:\Users\jackc\Desktop\DatgetlQuestion\obj\Debug\net7.0-windows\DatgetlQuestion.csproj.CoreCompileInputs.cache
+C:\Users\jackc\Desktop\DatgetlQuestion\obj\Debug\net7.0-windows\DatgetlQuestion.dll
+C:\Users\jackc\Desktop\DatgetlQuestion\obj\Debug\net7.0-windows\refint\DatgetlQuestion.dll
+C:\Users\jackc\Desktop\DatgetlQuestion\obj\Debug\net7.0-windows\DatgetlQuestion.pdb
+C:\Users\jackc\Desktop\DatgetlQuestion\obj\Debug\net7.0-windows\DatgetlQuestion.genruntimeconfig.cache
+C:\Users\jackc\Desktop\DatgetlQuestion\obj\Debug\net7.0-windows\ref\DatgetlQuestion.dll
